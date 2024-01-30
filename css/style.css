@@ -31,13 +31,13 @@ li{
 /* header */
 header{
     background-color: white;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .logo{
-    padding-left: 20px;
+    padding-left: 10px;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
    
     vertical-align: middle;
 }
@@ -75,7 +75,7 @@ header{
 
 /* main */
 .main-background{
-    padding: 50px;
+    padding: 50px 50px 30px;
 }
 
 .task-header{
@@ -83,7 +83,7 @@ header{
 }
 
 .task-list{
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 }
 
 .task-type{
