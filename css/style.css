@@ -24,6 +24,10 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+li{
+    padding: 5px;
+}
+
 /* header */
 header{
     background-color: white;
@@ -47,7 +51,8 @@ header{
 
 /* nav */
 .nav-background{
-    padding: 10px 50px;
+    padding: 15px 50px;
+    margin-bottom: 3px;
 }
 
 .button{
@@ -68,7 +73,50 @@ header{
     border: 1px solid lightgrey;
 }
 
+/* main */
+.main-background{
+    padding: 50px;
+}
 
+.task-header{
+    padding-bottom: 10px;
+}
+
+.task-list{
+    padding-bottom: 30px;
+}
+
+.task-type{
+    border-radius: 8px;
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    
+}
+
+.type-editorial{
+    background-color: blue;
+}
+
+.type-q1goals{
+    background-color: blueviolet;
+}
+
+.type-recruiting{
+    background-color: aquamarine;
+}
+
+.type-mobile{
+    background-color: orange;
+}
+
+.type-website{
+    background-color: magenta;
+}
+
+.type-sales{
+    background-color: lightgreen;
+}
 
 
 
